@@ -1,0 +1,4 @@
+kitkat	42	4
+youyou	13	1
+mars	50	3.5
+twix		38		4
